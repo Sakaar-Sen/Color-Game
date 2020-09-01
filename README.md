@@ -7,6 +7,6 @@ A simple and easy to play game (which usually messes up your mind xp)
 
 ![](./images/02.JPG)
 
-![](./images/03.JPG)
-
 ![](./images/04.JPG)
+
+![](./images/03.JPG)
